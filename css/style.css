@@ -247,7 +247,7 @@ nav ul li:hover {
     height: 40px;
     aspect-ratio: 1/1;
   
-    background-image: url(/svg/back_arrow.svg);
+    background-image: url(../svg/back_arrow.svg);
     background-size: cover;
   }
   
