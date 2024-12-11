@@ -1,5 +1,5 @@
 document.getElementById("start_button").addEventListener("click", () => {
-    window.location.replace("/html/game_menu.html");
+    window.location.replace("html/game_menu.html");
 });
 
 document.getElementById("difficulty_button").addEventListener("click", () => {
