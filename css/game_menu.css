@@ -46,10 +46,10 @@ p {
 
 .timer {
     width: 70%;
-    background-image: url(/svg/timer.svg);
+    background-image: url(../svg/timer.svg);
 }
 
 .cursor {
     width: 55%;
-    background-image: url(/svg/swipe.svg);
+    background-image: url(../svg/swipe.svg);
 }
