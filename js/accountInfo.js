@@ -26,10 +26,10 @@ document.getElementById("user").onclick = changeUserMenu;
 
 document.getElementById("clear").addEventListener("click", () => {
     localStorage.clear();
-    window.location.replace("/index.html");
+    window.location.replace("index.html");
 });
 
 document.getElementById("exit").addEventListener("click", () => {
     localStorage.removeItem(currentAccount);
-    window.location.replace("/index.html");
+    window.location.replace("index.html");
 });
